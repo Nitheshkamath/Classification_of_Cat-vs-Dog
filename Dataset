@@ -1,0 +1,6 @@
+Data Preprocessing: Images are resized and normalized to ensure consistency during training.
+CNN Architecture: The model leverages several convolutional and pooling layers to extract features, followed by fully connected layers for classification.
+Model Evaluation: The performance of the trained model is assessed using accuracy metrics and a confusion matrix, providing insights into its classification capabilities.
+Visualization: Training and validation accuracy/loss over epochs are plotted to visualize the model's performance
+
+Dataset link: https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification
